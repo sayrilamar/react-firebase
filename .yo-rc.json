@@ -1,0 +1,29 @@
+{
+  "generator-react-firebase": {
+    "promptValues": {
+      "githubUser": "sayrilamar",
+      "firebaseName": "react-php",
+      "firebaseKey": "AIzaSyDj3jNoW8up6z9OtpDEvCRCy8Yck8wFKE4",
+      "includeRedux": false,
+      "includeFirestore": false,
+      "otherFeatures": [
+        "Continuous Integration config",
+        "Firebase Cloud Messaging",
+        "Firebase Functions (with ESNext support)",
+        "Tests for Firebase Functions (Mocha + Chai)",
+        "Tests for React Components (Jest)",
+        "Tests for UI (Cypress)",
+        "Firebase Analytics",
+        "Segment.io Analytics",
+        "Error Tracking (Sentry.io)",
+        "Client Side Error Reporting (Stackdriver)"
+      ],
+      "messagingSenderId": "1038705407500",
+      "measurementId": "216346710",
+      "appId": "1:1038705407500:web:3c2943850c883f35366029",
+      "firebasePublicVapidKey": "",
+      "ciProvider": "travis",
+      "deployTo": "firebase"
+    }
+  }
+}
